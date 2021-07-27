@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emixelmundo
+- 👀 I’m interested in motorsport/f1
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on Web proyects
+- 📫 You can reach me at @emixelmundo on Instagram
